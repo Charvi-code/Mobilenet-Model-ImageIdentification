@@ -4,7 +4,7 @@ Webcam.set({
     image_format:'png',
     png_quality:90,
     constraints:{
-        facingMode:"enviroment"
+        facingMode:"environment"
     }
 });
 camera=document.getElementById("camera");
